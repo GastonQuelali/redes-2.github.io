@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Direcciones IP"
+permalink: /direcciones-ip/
+---
+
 ## Tabla de Contenidos
 - [Tabla de Contenidos](#tabla-de-contenidos)
 - [Clases de Direcciones IP](#clases-de-direcciones-ip)
