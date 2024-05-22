@@ -1,4 +1,8 @@
 
-# Ing. Gaston Genaro Quelali Calcina
+# Ing. Gastón Genaro Quelali Calcina
 
-[Ir a la página de direcciones IP](./direcciones-ip)
+[Dispositivos comunes de red](./dispositivos-red)
+[Direcciones IP](./direcciones-ip)
+[Routers](./routers)
+
+
