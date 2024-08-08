@@ -3,6 +3,7 @@
 ## Sistemas Operativos
 
 - [UNIDAD I: Introducción a los Sistemas Operativos](./introduccion-so)
+- [UNIDAD II: Gestión de Procesos](./gestion-procesos-so)
 
 ## Redes
 
