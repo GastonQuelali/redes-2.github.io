@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Conceptos Básicos"
-permalink: /conceptos-basicos/
+permalink: /conceptos-basicos-redes/
 ---
 
 ### 1.1. Conceptos Básicos de Redes

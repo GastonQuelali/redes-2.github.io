@@ -6,8 +6,9 @@
 - [UNIDAD II: Gestión de Procesos](./gestion-procesos-so)
 
 ## Redes
-
-- [1.1 Conceptos Básicos de Redes](./conceptos-basicos)
+### UNIDAD I: Introducción a las redes
+- [1.1 Conceptos Básicos de Redes](./conceptos-basicos-redes)
+- [1.2 Modelos de Referencia y Protocolos](./modelos-referencia-redes)
 
 ## Redes 2
 
