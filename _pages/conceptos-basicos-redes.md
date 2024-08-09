@@ -72,5 +72,3 @@ Las redes juegan un papel crucial en los sistemas de información modernos. Algu
 - **Seguridad y Gestión de Datos**
   - Las redes permiten la implementación de medidas de seguridad como firewalls, sistemas de detección de intrusos y encriptación de datos, protegiendo la información sensible.
   - Facilitan la gestión centralizada de usuarios, permisos y políticas de seguridad, asegurando un entorno de trabajo seguro y controlado.
-
-En resumen, las redes son fundamentales para el funcionamiento de los sistemas de información modernos, proporcionando la infraestructura necesaria para la comunicación, colaboración, compartición de recursos, acceso a información y seguridad de datos.
